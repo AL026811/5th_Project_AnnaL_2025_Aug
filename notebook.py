@@ -48,13 +48,13 @@
 # In[11]:
 
 
-# get_ipython().system('pip install scikit-learn')
+# # get_ipython().system('pip install scikit-learn')
 
 
 # In[25]:
 
 
-# get_ipython().system('pip install sentence-transformers')
+# # get_ipython().system('pip install sentence-transformers')
 
 
 # In[26]:
